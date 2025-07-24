@@ -1,0 +1,4 @@
+{
+  "mongo_uri": "mongodb://usuario:contraseña@localhost:27017/postsdb",
+  "jwt_secret": "vault_anthonychicaiza_secreto"
+}
